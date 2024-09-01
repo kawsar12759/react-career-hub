@@ -13,8 +13,8 @@ const Banner = () => {
                         </div>
                     </div>
                 </div>
-                <div className='hidden lg:w-1/2 lg:block'>
-                    <img src={user} alt="" />
+                <div className='hidden lg:w-1/2 lg:flex items-end'>
+                    <img className='h-full' src={user} alt="" />
                 </div>
             </div>
         </div>
