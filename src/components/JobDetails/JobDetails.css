@@ -1,0 +1,10 @@
+.page-title {
+    background-image: url(../../assets/images/bg1.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-color: #f9f9ff;
+}
+
+.jd-bg {
+    background-color: rgba(126, 144, 254, 0.1);
+}

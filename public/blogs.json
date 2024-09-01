@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "blog_title": "Top 10 Skills Employers Look For in 2024",
+        "blog_content": "In today's competitive job market, having the right skills can set you apart from other candidates. In 2024, employers are prioritizing skills such as data analysis, digital marketing, and problem-solving abilities...",
+        "blog_img": "https://i.postimg.cc/xCXdpc78/skills-intelligence-job-occupation-recruitment-concept-1.jpg",
+        "author": "John Doe",
+        "publication_date": "2024-09-01",
+        "category": "Career Advice"
+    },
+    {
+        "id": "2",
+        "blog_title": "How to Ace Your Next Job Interview",
+        "blog_content": "Job interviews can be daunting, but with the right preparation, you can make a lasting impression. In this article, we cover tips on how to research the company, dress appropriately, and answer common interview questions...",
+        "blog_img": "https://i.postimg.cc/HkTkDSKf/3545798.jpg",
+        "author": "Emily Johnson",
+        "publication_date": "2024-08-28",
+        "category": "Job Search"
+    },
+    {
+        "id": "3",
+        "blog_title": "The Future of Remote Work: Opportunities and Challenges",
+        "blog_content": "Remote work is here to stay, but it comes with its own set of challenges. This blog explores the future of remote work, the benefits it offers, and the potential obstacles that employees and employers may face...",
+        "blog_img": "https://i.postimg.cc/pTzwdv5k/scene-with-diverse-young-people-being-digital-nomads-working-remotely-from-dreamy-locations-1.jpg",
+        "author": "David Lee",
+        "publication_date": "2024-09-01",
+        "category": "Workplace Trends"
+    },
+    {
+        "id": "4",
+        "blog_title": "5 Common Mistakes to Avoid on Your Resume",
+        "blog_content": "Your resume is your first impression to potential employers. Avoid these common mistakes to increase your chances of landing an interview. Make sure your resume is free of typos, tailored to the job, and includes quantifiable achievements...",
+        "blog_img": "https://i.postimg.cc/qRsFTGW5/young-man-getting-awful-shocking-message-1.jpg",
+        "author": "Linda Green",
+        "publication_date": "2024-08-25",
+        "category": "Resume Writing"
+    },
+    {
+        "id": "5",
+        "blog_title": "Networking Tips for Career Growth",
+        "blog_content": "Networking is a crucial part of career growth. This blog provides tips on how to effectively network, whether you're attending industry events or leveraging online platforms like LinkedIn. Learn how to build and maintain professional relationships...",
+        "blog_img": "https://i.postimg.cc/SRVtXxSL/smiling-team-having-informal-meeting-with-pizza-2.jpg",
+        "author": "James Carter",
+        "publication_date": "2024-08-20",
+        "category": "Career Development"
+    },
+    {
+        "id": "6",
+        "blog_title": "How to Balance Work and Personal Life",
+        "blog_content": "Maintaining a healthy work-life balance is essential for long-term success and well-being. This article explores strategies for managing your time effectively, setting boundaries, and prioritizing self-care...",
+        "blog_img": "https://i.postimg.cc/fRVgLs6X/medium-shot-woman-working-late-night-1.jpg",
+        "author": "Sophia Williams",
+        "publication_date": "2024-08-15",
+        "category": "Work-Life Balance"
+    },
+    {
+        "id": "7",
+        "blog_title": "Understanding the Gig Economy: Pros and Cons",
+        "blog_content": "The gig economy is growing, offering flexibility but also uncertainty. In this blog, we explore the benefits and drawbacks of gig work, how to succeed as a gig worker, and what this trend means for the future of work...",
+        "blog_img": "https://i.postimg.cc/LXpyN1hB/caucasian-entrepreneur-businessman-manager-working-concentrated-office-successful-1.jpg",
+        "author": "Oliver Thompson",
+        "publication_date": "2024-08-10",
+        "category": "Workplace Trends"
+    },
+    {
+        "id": "8",
+        "blog_title": "Freelancing vs. Full-Time Employment: Which is Right for You?",
+        "blog_content": "Choosing between freelancing and full-time employment can be challenging. This blog explores the pros and cons of each option, helping you decide which path aligns better with your career goals and lifestyle...",
+        "blog_img": "https://i.postimg.cc/NjwqW5yF/two-colleagues-working-together-office-white-background-1.jpg",
+        "author": "Rebecca Martin",
+        "publication_date": "2024-09-03",
+        "category": "Career Choices"
+    },
+    {
+        "id": "9",
+        "blog_title": "The Importance of Upskilling in a Rapidly Changing Job Market",
+        "blog_content": "In a job market that's constantly evolving, upskilling has become essential for career advancement. This article discusses the benefits of continuous learning, how to identify skills gaps, and ways to stay competitive in your industry...",
+        "blog_img": "https://i.postimg.cc/ydxwFRGQ/6219918.jpg",
+        "author": "Mark Stevens",
+        "publication_date": "2024-09-02",
+        "category": "Self Development"
+    },
+    {
+        "id": "10",
+        "blog_title": "Crafting a Personal Brand: How to Stand Out in Your Career",
+        "blog_content": "In today's digital world, your personal brand can be just as important as your resume. This blog covers the essentials of building a strong personal brand, from creating an online presence to networking effectively...",
+        "blog_img": "https://i.postimg.cc/2yBMtDrn/Personal-Branding.png",
+        "author": "Alicia Roberts",
+        "publication_date": "2024-08-30",
+        "category": "Career Development"
+    }
+]

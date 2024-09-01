@@ -1,0 +1,18 @@
+.navbarimg {
+  background-image: url(../../assets/images/bg2.png);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-color: #f9f9ff;
+
+}
+
+.nav-link {
+  color: #333;
+  text-decoration: none;
+}
+
+.nav-link.active {
+  color: #ff0000;
+  /* Change the active color as needed */
+  font-weight: bold;
+}
