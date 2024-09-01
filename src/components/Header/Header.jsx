@@ -9,7 +9,7 @@ const Header = () => {
     </>
 
     return (
-        <div className="navbarimg h-52">
+        <div className="navbarimg h-52 px-12 xl:px-0">
             <div className="navbar bg-base-100 pt-10 max-w-7xl mx-auto bg-transparent">
                 <div className="navbar-start">
                     <div className="dropdown">
