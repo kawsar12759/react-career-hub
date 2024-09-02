@@ -41,7 +41,7 @@ const Header = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="bg-gradient-to-r from-[#7E90FE] to-[#9873FF] py-3 px-4 rounded-lg text-white font-bold text-xl">Apply Now</a>
+                    <a className="hidden sm:block bg-gradient-to-r from-[#7E90FE] to-[#9873FF] py-3 px-4 rounded-lg text-white font-bold text-xl">Apply Now</a>
                 </div>
             </div>
         </div>
