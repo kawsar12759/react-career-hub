@@ -1,8 +1,9 @@
 import { GrLocation } from "react-icons/gr";
 import { CiDollar } from "react-icons/ci";
+import { Link } from "react-router-dom";
 
 const AppliedJob = ({ job }) => {
-    const { logo, job_title, company_name, remote_or_onsite, location, job_type, salary } = job;
+    const { id, logo, job_title, company_name, remote_or_onsite, location, job_type, salary } = job;
     return (
         <div className="md:grid md:grid-cols-5 border rounded p-4 gap-7">
             <div className="col-span-1 bg-[#f4f4f4] h-52 px-7 flex items-center mb-5 md:mb-0">
@@ -23,7 +24,7 @@ const AppliedJob = ({ job }) => {
                 </div>
             </div>
             <div className="col-span-1 flex items-center justify-center">
-                <button className="bg-gradient-to-r from-[#7E90FE] to-[#9873FF] px-4 py-3 rounded text-white font-bold">View Details</button>
+                <Link to={`/job/${id}`}><button className="bg-gradient-to-r from-[#7E90FE] to-[#9873FF] px-4 py-3 rounded text-white font-bold">View Details</button></Link>
             </div>
         </div>
     );
